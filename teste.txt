@@ -1,2 +1,4 @@
 Commit master 1
-conflcts master
+this will conflict
+experimental change 2
+
