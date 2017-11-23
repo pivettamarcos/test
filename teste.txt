@@ -1,2 +1,2 @@
 Commit master 1
-
+conflcts master
