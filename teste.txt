@@ -1,9 +1,2 @@
 Commit master 1
-experimental change 1
-<<<<<<< HEAD
-master change 2
-=======
-experimental change 2
-experimental change 3
 
->>>>>>> experimental
